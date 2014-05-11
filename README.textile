@@ -1,0 +1,1 @@
+This scraper collects the weekly playlist of the radio show "Radio Renner" of the radio station Bremen4. 
